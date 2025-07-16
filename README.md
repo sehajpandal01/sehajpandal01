@@ -1,6 +1,6 @@
 Hello Everyone! My name is Sehaj Pandal!
 
-🧠 Student Software Developer at San Francisco State University<br/>
+🧠 Student Software Developer at San Francisco State University learning more about LLM's and AI Agents<br/>
 🪯 Currently working on a mobile app based on card games from my culture and childhood<br/>
 ✅ Apps like this one and other smaller projects help me stay consistent with coding<br/>
 📸 My [Instagram](https://www.instagram.com/sehajpandal/) 
