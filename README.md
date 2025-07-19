@@ -1,7 +1,7 @@
 Hello Everyone! My name is Sehaj Pandal!
 
 🧠 Student Software Developer learning more about LLM's and AI Agents<br/>
-🪯 Currently working developing multiple passion projects, including a mobile app based on card games from my culture and childhood<br/>
+🪯 Currently working developing multiple passion projects, including a mobile app based on card games from my culture and childhood, and a sword dueling game to be created in Unreal Engine<br/>
 ✅ Looking to constantly stay consistent everyday with coding<br/>
 📸 My [Instagram](https://www.instagram.com/sehajpandal/) 
 
