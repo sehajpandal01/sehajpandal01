@@ -16,5 +16,3 @@ Hello Everyone! My name is Sehaj Pandal!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sehajpandal01&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
